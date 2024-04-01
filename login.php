@@ -24,8 +24,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Form Login</title>
     <link rel="stylesheet" href="bv-5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="stylelogin.css">
-</head>
+    <link rel="stylesheet" href="login.css">
+ </head>
 
 <body>
     <div class="container">
@@ -66,6 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
     </div>
     <script src="bv-5/js/bootstrap.bundle.min.js"></script>
+    <script src="scriptlogin.js"></script>
 </body>
 
 </html>
